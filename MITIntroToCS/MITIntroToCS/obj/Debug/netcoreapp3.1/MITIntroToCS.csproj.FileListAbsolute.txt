@@ -1,0 +1,13 @@
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\bin\Debug\netcoreapp3.1\MITIntroToCS.exe
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\bin\Debug\netcoreapp3.1\MITIntroToCS.deps.json
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\bin\Debug\netcoreapp3.1\MITIntroToCS.runtimeconfig.json
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\bin\Debug\netcoreapp3.1\MITIntroToCS.runtimeconfig.dev.json
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\bin\Debug\netcoreapp3.1\MITIntroToCS.dll
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\bin\Debug\netcoreapp3.1\MITIntroToCS.pdb
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.csprojAssemblyReference.cache
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.AssemblyInfoInputs.cache
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.AssemblyInfo.cs
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.csproj.CoreCompileInputs.cache
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.dll
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.pdb
+C:\Users\pdnud\source\repos\MITIntroToCS\MITIntroToCS\obj\Debug\netcoreapp3.1\MITIntroToCS.genruntimeconfig.cache

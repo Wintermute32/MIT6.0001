@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvJHR+ndRtufNcsNBxEyLnWRdzkmhCMHEo4mxeTmrKjBlTeCdfvatEzCCBvNOgJZv8cD0ZzoLlwdDR7kQB87UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pdnud\\source\\repos\\MITIntroToCS\\MITIntroToCS\\MITIntroToCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pdnud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
